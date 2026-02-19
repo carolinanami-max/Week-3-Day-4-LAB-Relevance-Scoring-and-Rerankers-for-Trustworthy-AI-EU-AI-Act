@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+python-dotenv
+cohere
+jupyter
+ipykernel

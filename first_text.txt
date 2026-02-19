@@ -1,0 +1,39 @@
+K=2, first answer=recursive secondanwers=semantic
+Question: What is AI acessibility?
+
+Answer: AI accessibility refers to the design and implementation of artificial intelligence systems in a way that ensures they are 
+usable and beneficial for all individuals, regardless of their gender identity, ethnic background, or disabilities. 
+This includes creating AI solutions that are inclusive and accommodating, providing accessible training materials, and ensuring that 
+ interface design and outputs of AI systems are tailored to meet the needs of diverse user groups.
+
+Answer: AI accessibility refers to the design and implementation of AI systems that accommodate all users, including those with 
+disabilities, by ensuring that the interfaces and outputs are usable and understandable for a diverse range of individuals.
+This includes creating multimodal outputs and considering various user needs to enhance the overall experience and effectiveness of 
+AI tools.
+
+
+
+K=5 + recursive, k=5 + semantic, k=7 + semantic,
+Question: What is AI literacy?
+
+Answer: AI literacy refers to the understanding of artificial intelligence capabilities and limitations, as well as the 
+ability to effectively integrate AI tools into existing workflows. It encompasses training that equips participants with 
+foundational knowledge of AI, emphasizes security best practices, and promotes transparency and human oversight in AI usage. 
+Key components of AI literacy include establishing an AI governance model, defining roles and responsibilities, and appointing 
+trained advisors to foster AI knowledge within an organization.
+
+Answer: AI literacy refers to the understanding and knowledge of artificial intelligence (AI) technologies, their capabilities, 
+risks, and limitations. It encompasses the ability to engage with AI responsibly and effectively across various roles within an 
+organization. AI literacy includes training and awareness programs tailored to different levels of technical expertise, ensuring 
+ all employees, regardless of their role, are equipped to utilize AI tools and make informed decisions related to AI usage. This 
+ involves
+  understanding AI governance, risk assessment, and ethical guidelines, as well as practical skills for integrating AI into workflows
+   and decision-making processes.
+
+
+Answer: AI literacy refers to the understanding and knowledge of artificial intelligence (AI) technologies, 
+their capabilities, risks, and ethical considerations. It encompasses the ability to engage with AI responsibly 
+and effectively across various roles within an organization. AI literacy includes training programs tailored to different
+ levels of technical expertise, ensuring that all employees, regardless of their role, are equipped to utilize AI tools and
+  make informed decisions related to AI systems. This involves awareness of policies, guidelines, and best practices for AI usage,
+   as well as the ability to integrate AI into workflows and understand its implications in various contexts.
